@@ -1,0 +1,16 @@
+[
+	{
+		"Average times taken to press the sensor": [0.886, 5.767, 0.4948],
+		"Weakness Indicator": 1,
+		"Strength Indicator": 2,
+		"Times taken to solve an equation": [2.151, 2.523, 2.326, 4.775, 4.366],
+		"Average time taken to solve an equaation": 2.523
+	}, 
+	{
+		"Average times taken to press the sensor": [0.339, 14.2275, 0, 7.770166666666667, 7.0087],
+		"Weakness Indicator": 1,
+		"Strength Indicator": 2,
+		"Times taken to solve an equation": [1.040, 1.412, 1.215, 3.664, 3.255],
+		"Average time taken to solve an equaation": 1.412
+	}
+]

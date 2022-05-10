@@ -1,0 +1,27 @@
+{
+	"name": "reflexx_back_end",
+	"version": "1.0.0",
+	"description": "A server app that communicates with Arduino and handles its data.",
+	"main": "Index.js",
+	"scripts": {
+		"dev": "nodemon Index.js",
+		"start": "node Index.js"
+	},
+	"keywords": [
+		"reflexx"
+	],
+	"author": "German Shein",
+	"license": "ISC",
+	"dependencies": {
+		"@ibm-watson/speech-to-text-nodejs": "^2.10.1",
+		"@serialport/parser-readline": "^10.3.0",
+		"express": "^4.18.1",
+		"fs": "^0.0.1-security",
+		"http": "^0.0.1-security",
+		"node-audiorecorder": "^3.0.0",
+		"nodemon": "^2.0.16",
+		"path": "^0.12.7",
+		"serialport": "^10.4.0",
+		"ws": "^8.6.0"
+	}
+}

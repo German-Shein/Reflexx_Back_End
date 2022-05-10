@@ -1,0 +1,86 @@
+[
+	[
+		{
+			"Touch Sensor Number": 1,
+			"Time taken to press the sensor": 35.346
+		}, 
+		{
+			"Touch Sensor Number": 2,
+			"Time taken to press the sensor": 1.173
+		}, 
+		{
+			"Touch Sensor Number": 1,
+			"Time taken to press the sensor": 1.279
+		}, 
+		{
+			"Touch Sensor Number": 2,
+			"Time taken to press the sensor": 1.182
+		}, 
+		{
+			"Touch Sensor Number": 1,
+			"Time taken to press the sensor": 1.923
+		}, 
+		{
+			"Touch Sensor Number": 0,
+			"Time taken to press the sensor": 1.052
+		}, 
+		{
+			"Touch Sensor Number": 2,
+			"Time taken to press the sensor": 2.593
+		}, 
+		{
+			"Touch Sensor Number": 1,
+			"Time taken to press the sensor": 0.961
+		}, 
+		{
+			"Touch Sensor Number": 0,
+			"Time taken to press the sensor": 0.720
+		}, 
+		{
+			"Touch Sensor Number": 1,
+			"Time taken to press the sensor": 0.860
+		}
+	],
+	[
+		{
+			"Touch Sensor Number": 3,
+			"Time taken to press the sensor": 34.259
+		}, 
+		{
+			"Touch Sensor Number": 4,
+			"Time taken to press the sensor": 45.106
+		}, 
+		{
+			"Touch Sensor Number": 0,
+			"Time taken to press the sensor": 0.339
+		}, 
+		{
+			"Touch Sensor Number": 4,
+			"Time taken to press the sensor": 11.054
+		}, 
+		{
+			"Touch Sensor Number": 3,
+			"Time taken to press the sensor": 3.805
+		}, 
+		{
+			"Touch Sensor Number": 1,
+			"Time taken to press the sensor": 28.455
+		}, 
+		{
+			"Touch Sensor Number": 4,
+			"Time taken to press the sensor": 3.984
+		}, 
+		{
+			"Touch Sensor Number": 3,
+			"Time taken to press the sensor": 3.899
+		}, 
+		{
+			"Touch Sensor Number": 4,
+			"Time taken to press the sensor": 9.943
+		}, 
+		{
+			"Touch Sensor Number": 3,
+			"Time taken to press the sensor": 4.658
+		}
+	]
+]
